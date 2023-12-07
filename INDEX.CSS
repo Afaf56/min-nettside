@@ -1,0 +1,59 @@
+/* for all the element */
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: red;
+}
+
+.green-text {
+  color: green;
+}
+
+.yellow-text {
+  color: rgb(121, 121, 34);
+}
+
+#c1 {
+  background-color: aqua;
+}
+
+/* .keyboard{
+    border:solid black 1px
+    box-shadow: 2px 2px whitesmoke;
+    padding: 3px 7px;
+
+} */
+
+.box {
+  width: 200px;
+  height: 280px;
+  background-color: aquamarine;
+  padding: 20px;
+  border: solid 2px blueviolet;
+  border-radius: 50px;
+  text-align: center;
+  display: inline;
+
+  /* margin: 10px; */
+
+  /* border-style:solid;
+    border-color:blueviolet;
+    border-width: 20px; */
+}
+
+.box2 {
+  width: 200px;
+  height: 280px;
+  background-color: aquamarine;
+  padding: 20px;
+  border: solid 2px blueviolet;
+  border-radius: 40px;
+  text-align: center;
+  display: inline;
+
+  /* margin: 30px; */
+}
